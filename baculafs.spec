@@ -8,6 +8,7 @@ Group:		Networking/Utilities
 Source0:	https://pypi.python.org/packages/source/B/BaculaFS/%{pypi_name}-%{version}.tar.gz
 # Source0-md5:	50dcca4d11eeaa98fe0382dfd58243db
 URL:		https://code.google.com/p/baculafs/
+BuildRequires:	rpmbuild(macros) >= 1.710
 BuildRequires:	python >= 1:2.6.6
 BuildRequires:	python-fuse >= 0.2.1
 BuildRequires:	python-pexpect >= 2.3

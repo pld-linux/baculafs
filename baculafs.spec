@@ -2,7 +2,7 @@
 Summary:	Exposes the Bacula catalog and storage as a Filesystem in USErspace
 Name:		baculafs
 Version:	0.1.7
-Release:	1
+Release:	2
 License:	GPL v3+
 Group:		Networking/Utilities
 Source0:	https://pypi.python.org/packages/source/B/BaculaFS/%{pypi_name}-%{version}.tar.gz
